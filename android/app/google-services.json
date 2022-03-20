@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792917421221",
+    "project_id": "neha-todo-app",
+    "storage_bucket": "neha-todo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792917421221:android:47ea41d92965381d36314c",
+        "android_client_info": {
+          "package_name": "com.neharoberts32.neha_todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792917421221-79htbll5n9kki0euqnglsm12pdrhog5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSMNiAnrNzm9kIPqiK5MYDNiwhCDVFbK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792917421221-79htbll5n9kki0euqnglsm12pdrhog5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
