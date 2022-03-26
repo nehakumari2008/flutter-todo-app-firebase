@@ -1,16 +1,10 @@
-# neha_todo_app
+# Flutter Todo application with firebase authentication
 
-A new Flutter project.
+A Flutter mobile application to manage todos on the go. Firebase provides support for authentication and Syncing the items to cloud.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![image1](https://user-images.githubusercontent.com/69853711/160226741-d46388e6-b8c3-4c34-ab71-1849b6c1ce4b.jpg)
+![image2](https://user-images.githubusercontent.com/69853711/160226743-10c42616-35c7-4c76-86f4-e09c8c809f41.jpg)
+![Image3](https://user-images.githubusercontent.com/69853711/160226744-20bcbf23-090b-4989-bf0d-abccd4dfac88.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
